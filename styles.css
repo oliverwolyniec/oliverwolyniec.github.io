@@ -52,16 +52,3 @@ a:hover {
   height: 100%;
   object-fit: cover; /* Ensures the image covers the area without distortion */
 }
-
-/* Caption Styling */
-.caption {
-  position: absolute;
-  bottom: 10px; /* Adjust as needed to move the caption up/down */
-  left: 20px; /* Adjust as needed */
-  font-size: 18px;
-  color: white;
-  background-color: rgba(0, 0, 0, 0.5); /* Dark background for visibility */
-  padding: 10px;
-  border-radius: 5px;
-  max-width: 90%; /* Ensures the caption doesn't overflow */
-}
